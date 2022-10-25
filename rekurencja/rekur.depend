@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636569279 source:c:\users\marta\desktop\c++\zadania\rekurencja\rekur\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
