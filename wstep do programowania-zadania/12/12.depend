@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636307313 source:c:\users\marta\desktop\c++\zadania\wstep do programowania\12\12\main.cpp
+	<iostream>
+	<fstream>
+
